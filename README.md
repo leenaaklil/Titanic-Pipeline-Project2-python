@@ -39,7 +39,7 @@ Project_Titanic.ipynb
 
 │   └── K-Nearest Neighbors
 
-├── 5. Evaluation (REQUIRED)
+├── 5. Evaluation
 
 │   ├── Accuracy Scores
 
