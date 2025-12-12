@@ -47,5 +47,5 @@ Project_Titanic.ipynb
 
 │   └── Classification Reports
 
-└── 6. Conclusion & Recommendations
+└── 6. Conclusion
                           
